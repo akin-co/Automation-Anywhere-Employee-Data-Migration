@@ -1,7 +1,7 @@
 {
   "name": "Automation Anywhere-Employee Data Migration",
   "description": "Employee Data Migration",
-  "main": "Main.xaml",
+  "main": "Automation Anywhere Challenge Pages - Employee Data Migration.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.4]",
     "UiPath.Mail.Activities": "[1.12.3]",
@@ -46,8 +46,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "0b5d2b78-5fd1-4662-b3bb-dc3152d8045b",
+      "filePath": "Automation Anywhere Challenge Pages - Employee Data Migration.xaml",
+      "uniqueId": "6925f6b4-3c6e-4323-bb36-345f1cd60107",
       "input": [],
       "output": []
     }
