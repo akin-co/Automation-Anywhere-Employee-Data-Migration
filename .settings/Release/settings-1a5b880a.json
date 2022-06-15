@@ -2,7 +2,7 @@
   "UiPath.UiAutomation.Activities.Generic.DelayBeforeMS": "0",
   "UiPath.UiAutomation.Activities.Generic.DelayAfterMS": "0",
   "UiPath.UiAutomation.Activities.Generic.TimeoutMS": "0",
-  "UiPath.UiAutomation.Activities.Generic.WaitForReady": "NONE",
+  "UiPath.UiAutomation.Activities.Generic.WaitForReady": "INTERACTIVE",
   "UiPath.UiAutomation.Activities.Generic.AlterIfDisabled": "False",
   "UiPath.UiAutomation.Activities.Generic.CaptureScreenshots": "True",
   "UiPath.UiAutomation.Activities.Generic.ShowClosestMatchesInSearchError": "True",
